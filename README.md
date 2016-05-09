@@ -1,2 +1,2 @@
 # SonicWireSculptor
-Recreating the Sonic Wire Sculptor in Unity
+Recreating the [Sonic Wire Sculptor](http://www.sonicwiresculptor.com) in Unity
